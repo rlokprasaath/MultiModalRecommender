@@ -60,6 +60,12 @@ python recommender/recommender_system.py
 
 ### Example output
 
-<img src="sample_output.png" width="600" />
+Top 5 recommendations for product ID: 10278
+
+→ ID: 34081 | Score: 0.9484
+→ ID: 7220 | Score: 0.9450
+→ ID: 59167 | Score: 0.9411
+→ ID: 40455 | Score: 0.9338
+→ ID: 10263 | Score: 0.9312
 
 ---
