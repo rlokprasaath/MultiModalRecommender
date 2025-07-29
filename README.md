@@ -68,4 +68,6 @@ Top 5 recommendations for product ID: 10278
 → ID: 40455 | Score: 0.9338
 → ID: 10263 | Score: 0.9312
 
+- And products based on it (images)
+
 ---
